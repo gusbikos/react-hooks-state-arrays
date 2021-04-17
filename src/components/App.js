@@ -1,6 +1,6 @@
 import React from "react";
 import SpicyFoodList from "./SpicyFoodList";
-
+//
 function App() {
   return (
     <div>
